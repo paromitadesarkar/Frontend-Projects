@@ -1,0 +1,6 @@
+// let pii = document.createElement('p');
+// pii.setAttribute("id", "result");
+// parentElement.appendChild(pii);
+const parentElement = document.querySelector('.form');
+instead of adding a 'p'
+tag in html, we can use the above code as well
